@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/StahlbrinkM/RnM-Facts/static/css/main.93c9d71b.css",
-    "main.js": "/StahlbrinkM/RnM-Facts/static/js/main.3416db28.js",
+    "main.css": "/StahlbrinkM/RnM-Facts/static/css/main.9579bb4e.css",
+    "main.js": "/StahlbrinkM/RnM-Facts/static/js/main.b198d6c4.js",
     "index.html": "/StahlbrinkM/RnM-Facts/index.html",
-    "main.93c9d71b.css.map": "/StahlbrinkM/RnM-Facts/static/css/main.93c9d71b.css.map",
-    "main.3416db28.js.map": "/StahlbrinkM/RnM-Facts/static/js/main.3416db28.js.map"
+    "main.9579bb4e.css.map": "/StahlbrinkM/RnM-Facts/static/css/main.9579bb4e.css.map",
+    "main.b198d6c4.js.map": "/StahlbrinkM/RnM-Facts/static/js/main.b198d6c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.93c9d71b.css",
-    "static/js/main.3416db28.js"
+    "static/css/main.9579bb4e.css",
+    "static/js/main.b198d6c4.js"
   ]
 }
